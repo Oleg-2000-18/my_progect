@@ -28,8 +28,5 @@
         "build": "gulp build",
         "serve": "gulp serve",
         "start": "gulp start"
-    },
-    "dependencies": {
-        "gulp": "^4.0.2"
     }
 }
